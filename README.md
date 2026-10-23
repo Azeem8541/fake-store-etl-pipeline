@@ -75,6 +75,10 @@ Fake_Api Project/
 - Schedule with Apache Airflow
 - Add data quality checks
 
+
 ## Author
 
-Azeem Akhtar | [LinkedIn][https://www.linkedin.com/in/azeemakhtar-] | [GitHub][https://github.com/Azeem8541]
+**Azeem Akhtar**  
+Data Engineer Aspirant
+
+[LinkedIn](https://www.linkedin.com/in/azeemakhtar-) | [GitHub](https://github.com/Azeem8541)
