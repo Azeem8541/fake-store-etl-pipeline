@@ -77,4 +77,4 @@ Fake_Api Project/
 
 ## Author
 
-Azeem Akhtar | [LinkedIn]([link](https://www.linkedin.com/in/azeemakhtar-) | [GitHub]([link](https://github.com/Azeem8541))
+Azeem Akhtar | [LinkedIn][https://www.linkedin.com/in/azeemakhtar-] | [GitHub][https://github.com/Azeem8541]
