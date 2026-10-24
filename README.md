@@ -62,10 +62,15 @@ Fake_Api Project/
    ```bash
    python main.py
    ```
-
+   
 ## Sample Output
 
-(Yahan terminal ka screenshot aur pgAdmin me table ka screenshot daalo)
+![Workflow Diagram](docs/Screenshot%202026-10-23%20232104.png)
+
+![ETL Output 1](docs/Screenshot%202026-10-23%20232219.png)
+
+![ETL Output 2](docs/Screenshot%202026-10-23%20232235.png)
+
 
 ## Future Improvements
 
